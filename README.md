@@ -19,9 +19,6 @@ Estou constantemente aprimorando minhas habilidades e buscando evoluir para me t
 
 - HTML5  
 - CSS3  
-- JavaScript  
-- Java  
-- Git & GitHub  
 
 ---
 
